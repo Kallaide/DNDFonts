@@ -1,8 +1,7 @@
 /* latin */
 @font-face {
-    font-family: 'Nodesto';
-    src: url('https://cdn.rawgit.com/Kallaide/DNDFonts/blob/master/Nodesto-Caps-Condensed-Bold.eot');
-    src: url('https://cdn.rawgit.com/Kallaide/DNDFonts/blob/master/Nodesto-Caps-Condensed-Bold.woff2') format('woff2');
-    font-weight: 100;
-    font-style: normal;
-} 
+  font-family: 'CJNodesto';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://cdn.rawgit.com/Kallaide/DNDFonts/blob/master/Nodesto-Caps-Condensed-Bold.woff2') format('woff2');
+}
