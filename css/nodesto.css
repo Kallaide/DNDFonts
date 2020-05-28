@@ -3,7 +3,7 @@
   font-family: 'nodestocapsbold';
   font-style: normal;
   font-weight: 700;
-  src: url('https://raw.githubusercontent.com/Kallaide/DNDFonts/blob/master/Fonts/Nodesto-Caps-Condensed-Bold.eot');
-  src: url('https://raw.githubusercontent.com/Kallaide/DNDFonts/blob/master/Fonts/Nodesto-Caps-Condensed-Bold.eot?#iefix') format('embedded-opentype'),
+  src: url('https://gitcdn.link/repo/Kallaide/DNDFonts/blob/master/Fonts/Nodesto-Caps-Condensed-Bold.eot');
+  src: url('https://gitcdn.link/repo/Kallaide/DNDFonts/blob/master/Fonts/Nodesto-Caps-Condensed-Bold.eot?#iefix') format('embedded-opentype'),
        url('https://gitcdn.link/repo/Kallaide/DNDFonts/blob/master/Nodesto-Caps-Condensed-Bold.woff2') format('woff2');
 }
