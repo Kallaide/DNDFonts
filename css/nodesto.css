@@ -1,8 +1,6 @@
 /* latin */
 @font-face {
-  font-family: 'nodestocapsbold';
-  font-style: normal;
-  font-weight: 700;
+  font-family: 'nodesto';
   src: url('https://gitcdn.link/repo/Kallaide/DNDFonts/blob/master/Fonts/Nodesto-Caps-Condensed.eot');
   src: url('https://gitcdn.link/repo/Kallaide/DNDFonts/blob/master/Fonts/Nodesto-Caps-Condensed.eot?#iefix') format('embedded-opentype'),
        url('https://gitcdn.link/repo/Kallaide/DNDFonts/blob/master/Nodesto-Caps-Condensed.woff2') format('woff2');
